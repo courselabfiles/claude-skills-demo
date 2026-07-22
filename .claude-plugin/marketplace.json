@@ -1,0 +1,13 @@
+{
+  "name": "claude-skills-demo",
+  "owner": {
+    "name": "peopleforrester"
+  },
+  "plugins": [
+    {
+      "name": "meridian-skills",
+      "source": "./meridian-skills",
+      "description": "Five synthetic Meridian demo skills for a Claude enablement workshop."
+    }
+  ]
+}

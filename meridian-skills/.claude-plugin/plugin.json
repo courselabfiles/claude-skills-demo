@@ -1,0 +1,9 @@
+{
+  "name": "meridian-skills",
+  "version": "1.0.0",
+  "description": "Release checker, SOW screener, board-brief formatter, mining-news recency scan, and a voice template.",
+  "author": {
+    "name": "peopleforrester"
+  },
+  "repository": "https://github.com/peopleforrester/claude-skills-demo"
+}
