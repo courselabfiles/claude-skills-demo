@@ -1,5 +1,6 @@
 {
   "name": "claude-skills-demo",
+  "description": "Synthetic demo skills for a Claude enablement workshop.",
   "owner": {
     "name": "peopleforrester"
   },
