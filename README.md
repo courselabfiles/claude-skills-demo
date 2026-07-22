@@ -15,8 +15,16 @@ Ltd. All content is synthetic.
 ## Add it in Claude Code
 
 ```
-/plugin marketplace add peopleforrester/claude-skills-demo
+/plugin marketplace add courselabfiles/claude-skills-demo
 /plugin install meridian-skills@claude-skills-demo
 ```
 
 Then invoke a skill by describing the task, or with its slash command.
+
+## Demo files
+
+`demo-files/` carries the synthetic documents used in the workshop demos: a
+financial model with a deliberately planted #REF! error, a drilling-services
+SOW with deliberately off-standard clauses, the house review standard, a
+branded slide template, and a press release whose figures deliberately deviate
+from `demo-files/assets/source-table.md`. All content is synthetic.
